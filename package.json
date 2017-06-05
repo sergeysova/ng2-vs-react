@@ -1,0 +1,16 @@
+{
+  "name": "ng2vsrc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "fingerprintjs2": "^1.5.1"
+  }
+}
