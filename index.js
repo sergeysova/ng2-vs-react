@@ -1,4 +1,3 @@
-const fingerprint = require('fingerprintjs2')
 const axios = require('axios')
 
 global.navigator = {}
