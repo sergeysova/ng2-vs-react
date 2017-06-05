@@ -10,7 +10,6 @@
   "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
-    "fingerprintjs2": "^1.5.1"
+    "axios": "^0.16.2"
   }
 }
